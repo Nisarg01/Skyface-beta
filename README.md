@@ -1,5 +1,7 @@
 # Skyface
 
+![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 ### Description
 * This is a beautified and more personalised version of Udacity's popular Sunshine app. 
 * It has a few functionality differences and mostly UI enhancements.
